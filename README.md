@@ -20,7 +20,7 @@ Provides full-screen artworks inspired by consoles/computers games, as alternati
 
 ## Showcase
 
-[![](https://markdown-videos.deta.dev/youtube/JOv8jyO-noY)](https://www.youtube.com/watch?v=JOv8jyO-noY&t=20s)
+[![](https://markdown-videos.deta.dev/youtube/WBdr_sucT4k)](https://www.youtube.com/watch?v=WBdr_sucT4k)
 
 ## Pre-requisites
 
