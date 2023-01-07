@@ -41,7 +41,7 @@ Once you have installed [ckau-book](https://github.com/CkauNui/ckau-book) theme,
 - Downloading the latest [Github code](https://github.com/CkauNui/ckau-book-addons-Wallpapers/archive/refs/heads/master.zip) and unzip it into your ES themes directory.
 
 Once installed, you'll need to activate "Wallpapers" system view in<br/>
-*Settings > User Interface Settings > Theme Configuration > Theme Systembackground > Cinematic Fullscreen*:
+*Settings > User Interface Settings > Theme Configuration > Theme Systembackground > Wallpapers*:
 
 <a href="https://i.imgur.com/KawmAHM.png"><img src="https://i.imgur.com/KawmAHM.png" width=500></a>
 

@@ -59,7 +59,7 @@ Tthe addons directory must be in this position to ensure that addons will not be
 
 ### Uninstall the addon
 
-If you'd like to uninstall this addon, delete the`/themes/ckau-book-addons/_inc/anim/art2` directory.
+If you'd like to uninstall this addon, delete the `/themes/ckau-book-addons/_inc/anim/art2` directory.
 
 ## Other addons available
 
